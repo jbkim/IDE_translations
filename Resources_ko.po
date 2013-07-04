@@ -967,7 +967,7 @@ msgid ""
 "They should also be less less than 64 characters long."
 msgstr ""
 "스케치 이름을 변경해야 합니다. 스케치 이름은 아스키 문자나\n"
-" 숫자(하지만 숫자로 시장할 수 없습니다)만 가능합니다.\n"
+" 숫자(하지만 숫자로 시작할 수 없습니다)만 가능합니다.\n"
 "그리고 64자 미만이여야 합니다."
 
 #: debug/AvrdudeUploader.java:96
